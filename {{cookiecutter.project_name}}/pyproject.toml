@@ -9,8 +9,6 @@ name = "{{ cookiecutter.project_name }}"
 version = "0.1.0"
 description = "{{ cookiecutter.project_description }}"
 license = "{{ cookiecutter.license|upper }}"
-virtualenvs.create = true
-virtualenvs.in-project = true
 
 authors = []
 
