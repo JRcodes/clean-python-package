@@ -1,5 +1,6 @@
 {
   "project_name": "my-awesome-project",
+  "author": "some-cool-person",
   "project_description": "This is how python package should look like!",
 
   "license": "MIT",
