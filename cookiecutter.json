@@ -1,6 +1,5 @@
 {
   "project_name": "my-awesome-project",
-  "organization": "wemake.services",
   "project_description": "This is how python package should look like!",
 
   "license": "MIT",
