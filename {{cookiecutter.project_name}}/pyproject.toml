@@ -21,7 +21,11 @@ logzero = "^1.5.0"
 
 [tool.poetry.dev-dependencies]
 
+sherpa = { git = "git@gitlab.pnmac.com:gitlab-deploy/edma/data.Sherpa.git", rev = "ftr/docutech" }
 isort = "^4.3.21"
 black = "^19.10b0"
 safety = "^1.8"
 sphinx = "^2.2"
+boto3 = "^1.18.26"
+pytest = "^6.2.4"
+aws-lambda-powertools = "^1.20.1"
