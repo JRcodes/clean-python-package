@@ -21,7 +21,7 @@ logzero = "^1.5.0"
 
 [tool.poetry.dev-dependencies]
 
-sherpa = { git = "ssh://git@gitlab.pnmac.com/gitlab-deploy/edma/data.Sherpa.git", branch = "dev"}
+sherpa = { git = “git@gitlab.pnmac.com:gitlab-deploy/edma/data.Sherpa.git”, rev = “dev” }
 isort = "^4.3.21"
 black = "^19.10b0"
 safety = "^1.8"
