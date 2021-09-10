@@ -20,7 +20,6 @@ newrelic = "^5.12.0"
 logzero = "^1.5.0"
 
 [tool.poetry.dev-dependencies]
-
 sherpa = { git = “git@gitlab.pnmac.com:gitlab-deploy/edma/data.Sherpa.git”, rev = “dev” }
 isort = "^4.3.21"
 black = "^19.10b0"
